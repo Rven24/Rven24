@@ -52,4 +52,4 @@ Here are some technologies I've been working with:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
 </div>
 
-<p><b>Thank you for visiting 🙏</b></p>
+<h2><b>Thank you for visiting 🙏</b></h2>
