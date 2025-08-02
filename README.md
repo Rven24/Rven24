@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=brightgreen" alt="Total Pengunjung" />
+  <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=orange" alt="Total Pengunjung" />
 </p>
 
 # Hai! Saya Vyann/Rven 👋
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://favianlvs.rf.gd">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="Portofolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portofolio" />
   </a>
 </p>
 
@@ -55,6 +55,6 @@ Berikut adalah beberapa teknologi yang sering saya gunakan dan nikmati:
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&hide_rank=true" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark" alt="Bahasa Terpopuler" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Bahasa Terpopuler" />
 </p>
