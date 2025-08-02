@@ -26,6 +26,7 @@ Here are some technologies I've been working with:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -46,3 +47,9 @@ Here are some technologies I've been working with:
   <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Top Languages" />
 </p>
+
+<div align="center" style="margin-top:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
+</div>
+
+<p><b>Thank you for visiting 🙏</b></p>
