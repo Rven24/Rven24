@@ -16,17 +16,18 @@
 Here are some technologies I've been working with:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/HTML5-367D25?style=for-the-badge&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-367D25?style=for-the-badge&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-367D25?style=for-the-badge&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-367D25?style=for-the-badge&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-367D25?style=for-the-badge&logoColor=white" alt="Laravel" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-367D25?style=for-the-badge&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-367D25?style=for-the-badge&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-367D25?style=for-the-badge&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-367D25?style=for-the-badge&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/VSCode-367D25?style=for-the-badge&logoColor=white" alt="VSCode" />
 </p>
 
 ---
