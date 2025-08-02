@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=orange" alt="GitHub Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=367D25" alt="GitHub Visitors" />
 </p>
 
 # Hi there! I'm Vyann
@@ -11,9 +11,9 @@
 
 ---
 
-### My Backpack
+## My Backpack
 
-Here are some technologies I've been working with:
+Here are some Skills I've been working with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-367D25?style=for-the-badge&logoColor=white" alt="HTML5" />
@@ -32,7 +32,7 @@ Here are some technologies I've been working with:
 
 ---
 
-### What I'm Doing
+## What I'm Doing
 
 - I'm currently focused on developing the **RizzTech** project.
 - I'm continuously learning about **JavaScript Frameworks** & **PHP Frameworks** to improve my skills.
@@ -42,17 +42,19 @@ Here are some technologies I've been working with:
 
 ---
 
-### My GitHub Stats
+## My GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=367D25&icon_color=367D25&hide_rank=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=367D25&icon_color=367D25" alt="Top Languages" />
 </p>
 
 <div align="center" style="margin-top:10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rven24&theme=github-dark-blue&hide_border=false" />
 </div>
 
-### **Thank you for visiting**
+<div align="center">
+<h1> Thank you for Visiting :) </h1>
+</div>
