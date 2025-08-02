@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=orange" alt="Total Pengunjung" />
+  <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=orange" alt="GitHub Visitors" />
 </p>
 
-# Hai! Saya Vyann/Rven 👋
+# Hi there! I'm Vyann/Rven 👋
 
 <div align="center">
-  <p>Seorang <b>Web Developer</b> yang bersemangat menciptakan pengalaman digital menarik.</p>
-  <p>Saya fokus pada pengembangan web yang dapat dinikmati dan bermanfaat bagi banyak orang.</p>
+  <p>A passionate <b>Web Developer</b> who loves creating engaging digital experiences.</p>
+  <p>I focus on building web applications that are enjoyable and beneficial for people.</p>
 </div>
 
 <p align="center">
@@ -17,15 +17,15 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://favianlvs.rf.gd">
-    <img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portofolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 🚀 Teknologi yang Saya Kuasai
+### 🚀 My Tech Stack
 
-Berikut adalah beberapa teknologi yang sering saya gunakan dan nikmati:
+Here are some technologies I've been working with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,19 +42,19 @@ Berikut adalah beberapa teknologi yang sering saya gunakan dan nikmati:
 
 ---
 
-### ✨ Apa yang Saya Lakukan
+### ✨ What I'm Doing
 
-- 🔭 Saat ini sedang fokus mengembangkan proyek **RizzTech**.
-- 🌱 Terus belajar tentang **JavaScript Frameworks** & **PHP Frameworks** untuk meningkatkan keahlian.
-- 💬 Saya terbuka untuk diskusi tentang **Web Development** dan **Game**.
-- 📫 Anda bisa menghubungi saya melalui email: **taufanian07@gmail.com**.
-- ⚡ Fakta menarik: Saya suka bermain basket dan minum matcha.
+- 🔭 I'm currently focused on developing the **RizzTech** project.
+- 🌱 I'm continuously learning about **JavaScript Frameworks** & **PHP Frameworks** to improve my skills.
+- 💬 Open to discussing **Web Development** and **Games**.
+- 📫 You can reach me at: **taufanian07@gmail.com**.
+- ⚡ Fun fact: I love playing basketball and drinking matcha.
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Bahasa Terpopuler" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Top Languages" />
 </p>
