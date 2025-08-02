@@ -44,8 +44,8 @@ Here are some technologies I've been working with:
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=FF7F00&icon_color=FF7F00" alt="Top Languages" />
 </p>
 
 <div align="center" style="margin-top:10px;">
