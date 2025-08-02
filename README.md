@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namakamu&style=for-the-badge&color=brightgreen" alt="Total Pengunjung" />
+  <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=brightgreen" alt="Total Pengunjung" />
 </p>
 
 # Halo, saya Vyann/Rven 👋
