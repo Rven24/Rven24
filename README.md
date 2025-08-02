@@ -49,7 +49,7 @@ Here are some technologies I've been working with:
 </p>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rven24&theme=github-dark-blue&hide_border=false" />
 </div>
 
 ### **Thank you for visiting**
