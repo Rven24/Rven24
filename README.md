@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=rven24&style=for-the-badge&color=orange" alt="GitHub Visitors" />
 </p>
 
-# Hi there! I'm Vyann/Rven 👋
+# Hi there! I'm Vyann
 
 <div align="center">
   <p>A passionate <b>Web Developer</b> who loves creating engaging digital experiences.</p>
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 My Tech Stack
+### My Tech Stack
 
 Here are some technologies I've been working with:
 
@@ -31,17 +31,17 @@ Here are some technologies I've been working with:
 
 ---
 
-### ✨ What I'm Doing
+### What I'm Doing
 
-- 🔭 I'm currently focused on developing the **RizzTech** project.
-- 🌱 I'm continuously learning about **JavaScript Frameworks** & **PHP Frameworks** to improve my skills.
-- 💬 Open to discussing **Web Development** and **Games**.
-- 📫 You can reach me at: **taufanian07@gmail.com**.
-- ⚡ Fun fact: I love playing basketball and drinking matcha.
+- I'm currently focused on developing the **RizzTech** project.
+- I'm continuously learning about **JavaScript Frameworks** & **PHP Frameworks** to improve my skills.
+- Open to discussing **Web Development** and **Games**.
+- You can reach me at: **taufanian07@gmail.com**.
+- Fun fact: I love playing basketball and drinking matcha.
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&title_color=FF7F00&icon_color=FF7F00&hide_rank=true" alt="GitHub Stats" />
@@ -52,4 +52,4 @@ Here are some technologies I've been working with:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vendettaa666&theme=github-dark-blue&hide_border=false" />
 </div>
 
-<h2><b>Thank you for visiting 🙏</b></h2>
+### **Thank you for visiting**
