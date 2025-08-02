@@ -40,6 +40,10 @@ Berikut adalah beberapa teknologi yang sering saya gunakan dan nikmati:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<p align="center">
+  <img src="https://c.tenor.com/tH0v3_o97f4AAAAC/naruto-running.gif" width="100" alt="Naruto running" />
+</p>
+
 ---
 
 ### ✨ Apa yang Saya Lakukan
