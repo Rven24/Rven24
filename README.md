@@ -55,10 +55,6 @@ Berikut adalah beberapa teknologi yang sering saya gunakan dan nikmati:
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rven24&theme=darkhub" alt="GitHub Trophies" />
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=buefy&hide_rank=true" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=buefy" alt="Bahasa Terpopuler" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rven24&show_icons=true&theme=dark&hide_rank=true" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rven24&layout=compact&theme=dark" alt="Bahasa Terpopuler" />
 </p>
