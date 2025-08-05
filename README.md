@@ -8,7 +8,7 @@
 <h1 align="center">Halo, saya Vyann 👋</h1>
 
 <div align="center">
-  <img src="https://googleusercontent.com/image_collection/image_retrieval/3595473956300930349_0" alt="Coding GIF" width="180" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtham1ha3djeWp1MHVtem93ODMwdXc2eWU1eDJ5MzBiNmxuZG9ucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rF5e1WuaDYKGnV8Pjg/giphy.gif" alt="Coding GIF" width="180" />
 </div>
 
 ---
