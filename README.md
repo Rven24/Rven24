@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 Statistik GitHub
+### Statistik GitHub
 
 <div align="center">
   <a href="https://github.com/Rven24" target="_blank">
@@ -51,7 +51,7 @@
 
 ---
 
-### 🚀 Proyek dan Kolaborasi
+### Proyek dan Kolaborasi
 
 <div align="center">
   <p>
@@ -70,7 +70,7 @@
 
 ---
 
-### ☕ Fun Facts
+### Fun Facts
 
 <div align="center">
   <ul>
@@ -82,7 +82,7 @@
 
 ---
 
-### 📧 Hubungi Saya
+### Hubungi Saya
 
 <div align="center">
   <p>
