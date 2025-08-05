@@ -1,60 +1,95 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=367D25" alt="GitHub Visitors" />
-</p>
+<div align="center">
+  <a href="https://github.com/Rven24" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=586e92" alt="GitHub Visitors" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-586e92?style=for-the-badge" alt="Collaboration Status" />
+</div>
 
-# Hi there! I'm Vyann
+<h1 align="center">Halo, saya Vyann 👋</h1>
 
 <div align="center">
-  <p>A passionate <b>Web Developer</b> who loves creating engaging digital experiences.</p>
-  <p>I focus on building web applications that are enjoyable and beneficial for people.</p>
+  <img src="https://googleusercontent.com/image_collection/image_retrieval/3595473956300930349_0" alt="Coding GIF" width="180" />
 </div>
 
 ---
 
-## My Backpack
-
-Here are some Skills I've been working with:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-367D25?style=for-the-badge&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-367D25?style=for-the-badge&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-367D25?style=for-the-badge&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-367D25?style=for-the-badge&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-367D25?style=for-the-badge&logoColor=white" alt="Laravel" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-367D25?style=for-the-badge&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-367D25?style=for-the-badge&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MySQL-367D25?style=for-the-badge&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-367D25?style=for-the-badge&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/VSCode-367D25?style=for-the-badge&logoColor=white" alt="VSCode" />
-</p>
-
----
-
-## What I'm Doing
-
-- I'm currently focused on developing the **RizzTech** project.
-- I'm continuously learning about **JavaScript Frameworks** & **PHP Frameworks** to improve my skills.
-- Open to discussing **Web Development** and **Games**.
-- You can reach me at: **taufanian07@gmail.com**.
-- Fun fact: I love playing basketball and drinking matcha.
-
----
-
-## My GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=367D25&icon_color=367D25&hide_rank=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=367D25&icon_color=367D25" alt="Top Languages" />
-</p>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rven24&theme=github-dark-blue&hide_border=false" />
-</div>
+### Tentang Saya
 
 <div align="center">
-<h1> Thank you for Visiting :) </h1>
+  <p>
+    Seorang <strong>Full-Stack Developer</strong> yang bersemangat membangun solusi digital yang efisien dan bermanfaat. Saya fokus pada menciptakan pengalaman web yang luar biasa, satu baris kode pada satu waktu.
+  </p>
+</div>
+
+---
+
+### 🛠️ Toolbelt & Skillset
+
+<div align="center">
+  <p>
+    Teknologi yang saya gunakan untuk mewujudkan ide menjadi realita.
+  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,postgresql,git,vscode,flutter,dart" alt="My Tech Stack" />
+</div>
+
+---
+
+### 📈 Statistik GitHub
+
+<div align="center">
+  <a href="https://github.com/Rven24" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=586e92&icon_color=586e92&text_color=c9d1d9&bg_color=0d1117&hide_rank=true&border_color=586e92" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=586e92&text_color=c9d1d9&bg_color=0d1117&border_color=586e92" alt="Top Languages" />
+  </a>
+  <br>
+  <a href="https://github.com/Rven24" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rven24&theme=dark&hide_border=false&stroke=586e92&ring=586e92&fire=586e92" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 🚀 Proyek dan Kolaborasi
+
+<div align="center">
+  <p>
+    Tertarik untuk berkolaborasi dalam proyek yang menarik. Mari kita ciptakan sesuatu yang luar biasa bersama!
+  </p>
+  <a href="#proyek-aktif">
+    <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-blue?style=for-the-badge" alt="Active Project" />
+  </a>
+  <a href="#belajar">
+    <img src="https://img.shields.io/badge/Eksplorasi-Teknologi%20Baru-green?style=for-the-badge" alt="Exploring New Tech" />
+  </a>
+  <a href="#kolaborasi">
+    <img src="https://img.shields.io/badge/Tertarik%20dengan-Kolaborasi-yellow?style=for-the-badge" alt="Open for Collaboration" />
+  </a>
+</div>
+
+---
+
+### ☕ Fun Facts
+
+<div align="center">
+  <ul>
+    <li>Suka ngoding sambil minum <strong>Matcha</strong></li>
+    <li>Hobi bermain <strong>Basketball</strong> untuk relaksasi</li>
+    <li>Selalu bersemangat untuk belajar hal baru!</li>
+  </ul>
+</div>
+
+---
+
+### 📧 Hubungi Saya
+
+<div align="center">
+  <p>
+    Senang berkenalan dengan Anda!
+  </p>
+  <a href="mailto:taufanian07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Rven24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
