@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=2c3e50" alt="Profile Views" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=3498DB&width=435&lines=Halo,+Saya+Vyann!;Web+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
@@ -31,8 +27,9 @@
 ## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=jellyfish&title_color=3498db&icon_color=3498db&text_color=bdc3c7&bg_color=2c3e50&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=jellyfish&title_color=3498db&text_color=bdc3c7&bg_color=2c3e50" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rven24&theme=github_dark" alt="my Github Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rven24&theme=github_dark" alt="my Github Stats2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rven24&theme=github_dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rven24&theme=jellyfish&hide_border=false&stroke=3498db&ring=3498db&fire=3498db&background=2c3e50" alt="GitHub Streak" />
 </p>
 
