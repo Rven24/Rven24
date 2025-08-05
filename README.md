@@ -1,96 +1,78 @@
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=586e92" alt="Pengunjung Profil GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=2c3e50" alt="Profile Views" />
 </div>
 
-<h1 align="center">Halo, Saya Vyann</h1>
-<p align="center">
- Seorang <strong style="color: #586e92;">Full-Stack Developer</strong> yang bersemangat membangun solusi digital inovatif dan berdampak. Saya percaya pada kekuatan kode untuk menciptakan pengalaman web yang luar biasa, selangkah demi selangkah.
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=3498DB&width=435&lines=Halo,+Saya+Vyann!;Web+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
 <p align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtham1ha3djeWp1MHVtem93ODMwdXc2eWU1eDJ5MzBiNmxuZG9ucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rF5e1WuaDYKGnV8Pjg/giphy.gif" alt="Naruto" width="200" />
+  <img src="https://media.giphy.com/media/qgM4G2J7xG4E5mE48e/giphy.gif" alt="Coding GIF" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 ---
 
-<h2 align="center"> Keahlian Teknis</h2>
+## Tentang Saya
 
-<p align="center">
- Teknologi yang saya gunakan untuk mewujudkan ide-ide menjadi kenyataan:
-</p>
-
-<div align="center">
- <h3>Bahasa Pemrograman</h3>
- <img src="https://skillicons.dev/icons?i=html,css,js,php,dart" alt="Bahasa Pemrograman" />
-</div>
-
-<div align="center">
- <h3>Framework & Tools</h3>
- <img src="https://skillicons.dev/icons?i=laravel,mysql,postgresql,git,vscode,flutter" alt="Framework & Tools" />
-</div>
+ Seorang **Full-Stack Developer** yang berdedikasi menciptakan solusi digital inovatif dan berorientasi pengguna.  
+ Fokus pada membangun aplikasi web yang interaktif, modern, dan efisien.  
+ Selalu ingin belajar dan mengeksplorasi teknologi terbaru.
 
 ---
 
-<h2 align="center"> Statistik GitHub</h2>
+## Keahlian Teknis
 
 <p align="center">
- Berikut adalah gambaran singkat tentang kontribusi dan aktivitas saya di GitHub:
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,laravel,mysql,postgresql,git,vscode" alt="Tech Stack" />
 </p>
 
-<div align="center">
-<!-- Copy-paste in your Readme.md file -->
+---
 
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179080789" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179080789&image_size=auto&color_scheme=dark" width="500" height="auto">
-      <img alt="Dashboard stats of @Rven24" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179080789&image_size=auto&color_scheme=light" width="500" height="auto">
-    </picture>
+## Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=jellyfish&title_color=3498db&icon_color=3498db&text_color=bdc3c7&bg_color=2c3e50&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=jellyfish&title_color=3498db&text_color=bdc3c7&bg_color=2c3e50" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rven24&theme=jellyfish&hide_border=false&stroke=3498db&ring=3498db&fire=3498db&background=2c3e50" alt="GitHub Streak" />
+</p>
+
+---
+
+## Kolaborasi
+
+<p align="center">
+  <a href="#proyek-aktif">
+    <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-586e92?style=for-the-badge&logo=github" />
   </a>
- 
- <a href="https://github.com/Rven24" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=586e92&text_color=c9d1d9&bg_color=0d1117&border_color=586e92" alt="Bahasa Teratas" />
- </a>
-</div>
-
----
-
-<h2 align="center"> Tertarik untuk Berkolaborasi?</h2>
-
-<p align="center">
- Saya sangat antusias untuk berkolaborasi dalam proyek-proyek menarik. Jika Anda memiliki ide brilian atau ingin berdiskusi tentang potensi kolaborasi, jangan ragu untuk menghubungi saya!
-</p>
-
-<p align="center">
- <a href="#proyek-aktif">
-   <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-blue?style=for-the-badge" alt="Proyek Aktif" />
- </a>
- <a href="#belajar">
-   <img src="https://img.shields.io/badge/Eksplorasi-Teknologi%20Baru-green?style=for-the-badge" alt="Eksplorasi Teknologi Baru" />
- </a>
- <a href="#kolaborasi">
-   <img src="https://img.shields.io/badge/Siap%20untuk-Kolaborasi-yellow?style=for-the-badge" alt="Siap untuk Kolaborasi" />
- </a>
+  <a href="#belajar">
+    <img src="https://img.shields.io/badge/Eksplorasi-Teknologi%20Baru-7f8c8d?style=for-the-badge&logo=visualstudiocode" />
+  </a>
+  <a href="#kolaborasi">
+    <img src="https://img.shields.io/badge/Siap%20untuk-Kolaborasi-f39c12?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center"> Mari Terhubung!</h2>
+## 📫 Mari Terhubung!
 
 <p align="center">
- Saya senang terhubung dengan sesama pengembang dan individu yang memiliki minat yang sama. Jangan sungkan untuk menghubungi saya melalui platform di bawah ini:
+  <a href="mailto:taufanian07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/fvyannn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rven24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
- <a href="mailto:taufanian07@gmail.com">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
- </a>
- <a href="#" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
- <a href="https://instagram.com/fvyannn" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
- </a>
- <a href="https://github.com/Rven24" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
- </a>
+---
+
+<p align="center" style="color: #95a5a6;">
+  Terima kasih telah mengunjungi profil saya. Jangan ragu untuk menjelajahi proyek saya dan menghubungi saya untuk berkolaborasi!
 </p>
