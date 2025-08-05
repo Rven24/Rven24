@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgM4G2J7xG4E5mE48e/giphy.gif" alt="Coding GIF" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk5cHIzang2eDBpcnI5cmhxajMxZmdvNTE3Y25hZmZ1dTRwMHo5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rF5e1WuaDYKGnV8Pjg/giphy.gif" alt="Coding GIF" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 ---
 
 ## Tentang Saya
 
- Seorang **Full-Stack Developer** yang berdedikasi menciptakan solusi digital inovatif dan berorientasi pengguna.  
+ Seorang **Web Developer** yang berdedikasi menciptakan solusi digital inovatif dan berorientasi pengguna.  
  Fokus pada membangun aplikasi web yang interaktif, modern, dan efisien.  
  Selalu ingin belajar dan mengeksplorasi teknologi terbaru.
 
