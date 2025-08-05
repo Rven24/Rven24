@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Rven24" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=586e92" alt="GitHub Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=Rven24&style=for-the-badge&color=586e92" alt="GitHub Profile Visitors" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-586e92?style=for-the-badge" alt="Collaboration Status" />
 </div>
@@ -13,28 +13,26 @@
 
 ---
 
-### Tentang Saya
+### 🚀 Tentang Saya
 
-<div align="center">
-  <p>
-    Seorang <strong>Full-Stack Developer</strong> yang bersemangat membangun solusi digital yang efisien dan bermanfaat. Saya fokus pada menciptakan pengalaman web yang luar biasa, satu baris kode pada satu waktu.
-  </p>
-</div>
+<p align="center">
+  Seorang <strong>Full-Stack Developer</strong> yang bersemangat membangun solusi digital yang efisien dan bermanfaat. Saya fokus pada menciptakan pengalaman web yang luar biasa, satu baris kode pada satu waktu.
+</p>
 
 ---
 
-### My Backpack
+### 🛠️ My Backpack (Tech Stack)
 
-<div align="center">
-  <p>
-    Teknologi yang saya gunakan untuk mewujudkan ide menjadi realita.
-  </p>
+<p align="center">
+  Teknologi yang saya gunakan untuk mewujudkan ide menjadi realita.
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,postgresql,git,vscode,flutter,dart" alt="My Tech Stack" />
-</div>
+</p>
 
 ---
 
-### Statistik GitHub
+### 📊 Statistik GitHub
 
 <div align="center">
   <a href="https://github.com/Rven24" target="_blank">
@@ -51,12 +49,12 @@
 
 ---
 
-### Proyek dan Kolaborasi
+### 💼 Proyek dan Kolaborasi
 
+<p align="center">
+  Tertarik untuk berkolaborasi dalam proyek yang menarik. Mari kita ciptakan sesuatu yang luar biasa bersama!
+</p>
 <div align="center">
-  <p>
-    Tertarik untuk berkolaborasi dalam proyek yang menarik. Mari kita ciptakan sesuatu yang luar biasa bersama!
-  </p>
   <a href="#proyek-aktif">
     <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-blue?style=for-the-badge" alt="Active Project" />
   </a>
@@ -70,24 +68,22 @@
 
 ---
 
-### Fun Facts
+### 💡 Fun Facts
 
-<div align="center">
-  <ul>
-    <li>Suka ngoding sambil minum <strong>Matcha</strong></li>
-    <li>Hobi bermain <strong>Basketball</strong> untuk relaksasi</li>
-    <li>Selalu bersemangat untuk belajar hal baru!</li>
-  </ul>
-</div>
+<ul align="center" style="list-style-type: none; padding: 0;">
+  <li>Suka ngoding sambil minum <strong>Matcha</strong></li>
+  <li>Hobi bermain <strong>Basketball</strong> untuk relaksasi</li>
+  <li>Selalu bersemangat untuk belajar hal baru!</li>
+</ul>
 
 ---
 
-### Hubungi Saya
+### 📧 Hubungi Saya
 
+<p align="center">
+  Senang berkenalan dengan Anda!
+</p>
 <div align="center">
-  <p>
-    Senang berkenalan dengan Anda!
-  </p>
   <a href="mailto:taufanian07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
