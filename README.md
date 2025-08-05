@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Toolbelt & Skillset
+### My Backpack
 
 <div align="center">
   <p>
@@ -39,6 +39,8 @@
 <div align="center">
   <a href="https://github.com/Rven24" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=dark&title_color=586e92&icon_color=586e92&text_color=c9d1d9&bg_color=0d1117&hide_rank=true&border_color=586e92" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Rven24" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=dark&title_color=586e92&text_color=c9d1d9&bg_color=0d1117&border_color=586e92" alt="Top Languages" />
   </a>
   <br>
