@@ -30,7 +30,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rven24&theme=github_dark" alt="my Github Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rven24&theme=github_dark" alt="my Github Stats2"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rven24&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rven24&theme=jellyfish&hide_border=false&stroke=3498db&ring=3498db&fire=3498db&background=2c3e50" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rven24&theme=transparent&hide_border=false&stroke=3498db&ring=3498db&fire=3498db&background=2c3e50" alt="GitHub Streak" />
 </p>
 
 ---
