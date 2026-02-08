@@ -38,9 +38,9 @@
 ## Kolaborasi
 
 <p align="center">
-  <a href="#proyek-aktif">
+  <!-- <a href="#proyek-aktif">
     <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-586e92?style=for-the-badge&logo=github" />
-  </a>
+  </a> -->
   <a href="#belajar">
     <img src="https://img.shields.io/badge/Eksplorasi-Teknologi%20Baru-7f8c8d?style=for-the-badge&logo=visualstudiocode" />
   </a>
