@@ -1,75 +1,43 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=3498DB&width=435&lines=Halo,+Saya+Vyann!;Web+Developer;Welcome" alt="Typing SVG" />
-</h1>
+# Hi there, I'm Vyann 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk5cHIzang2eDBpcnI5cmhxajMxZmdvNTE3Y25hZmZ1dTRwMHo5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rF5e1WuaDYKGnV8Pjg/giphy.gif" alt="Coding GIF" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+**Full-stack Web Developer | Tech Enthusiast**
+
+I am a dedicated Web Developer focused on building interactive, modern, and efficient digital solutions. Passionate about clean code, user-centric design, and continuous learning.
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, PHP, Dart
+- **Frameworks:** Laravel, Flutter
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, VS Code
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,laravel,mysql,postgres,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-## Tentang Saya
+### 📊 GitHub Stats
 
- Seorang **Web Developer** yang berdedikasi menciptakan solusi digital inovatif dan berorientasi pengguna.  
- Fokus pada membangun aplikasi web yang interaktif, modern, dan efisien.  
- Selalu ingin belajar dan mengeksplorasi teknologi terbaru.
-
----
-
-## Keahlian Teknis
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,laravel,mysql,postgresql,git,vscode" alt="Tech Stack" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=ffffff" alt="Vyann's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=transparent&hide_border=true&title_color=3498db&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
 
-## Statistik GitHub
+### 📫 Connect with me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rven24&theme=github_dark" alt="my Github Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rven24&theme=github_dark" alt="my Github Stats2"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rven24&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rven24&theme=transparent&hide_border=false&stroke=3498db&ring=3498db&fire=3498db&background=2c3e50" alt="GitHub Streak" />
+<p align="left">
+  <a href="mailto:taufanian07@gmail.com"><img src="https://img.shields.io/badge/Email-taufanian07%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/Rven24"><img src="https://img.shields.io/badge/GitHub-Rven24-blue?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://instagram.com/fvyannn"><img src="https://img.shields.io/badge/Instagram-@fvyannn-blue?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
 
----
-
-## Kolaborasi
+<br />
 
 <p align="center">
-  <!-- <a href="#proyek-aktif">
-    <img src="https://img.shields.io/badge/Proyek%20Aktif-RizzTech-586e92?style=for-the-badge&logo=github" />
-  </a> -->
-  <a href="#belajar">
-    <img src="https://img.shields.io/badge/Eksplorasi-Teknologi%20Baru-7f8c8d?style=for-the-badge&logo=visualstudiocode" />
-  </a>
-  <a href="#kolaborasi">
-    <img src="https://img.shields.io/badge/Siap%20untuk-Kolaborasi-f39c12?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 📫 Mari Terhubung!
-
-<p align="center">
-  <a href="mailto:taufanian07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/fvyannn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rven24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center" style="color: #95a5a6;">
-  Terima kasih telah mengunjungi profil saya. Jangan ragu untuk menjelajahi proyek saya dan menghubungi saya untuk berkolaborasi!
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
