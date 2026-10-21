@@ -1,40 +1,40 @@
 # FAVIAN MUHAMMAD TAUFANI ATHA LESVEVA
-### Software Engineer & Game Developer
+### Software Engineer & Full Stack Developer
 
---
+
 
 # ABOUT ME
 
-Graduated in Software Engineering from SMKN 1 Lumajang. Focused on building 2D top-down game systems, low-poly 3D assets, and minimalist web applications. Experienced in managing technical and creative workflows.
+Graduated in Software Engineering from SMKN 1 Lumajang with a strong foundation in software design principles and digital production. I specialize in Full Stack Web Development building robust backend architecture with Laravel and PHP alongside modern, responsive interfaces using React and Tailwind CSS. 
 
-* **Current Focus:** Developing *Quiet Overtime* (Submarine horror game) in Godot Engine.
-* **Specialization:** GDScript logic, Blender low-poly modeling, and React front-end development.
-* **Workflow:** Architecture and ideation structured via Obsidian.
+In addition to web engineering, I actively explore Game Development and 3D pipelines, creating 2D interactive mechanics in Godot Engine and designing low-poly assets in Blender. I thrive on solving complex technical challenges, structuring clear project workflows via Obsidian, and delivering efficient, user-centered digital solutions.
 
---
+* **Current Focus:** Developing *Digital Edupage*.
+* **Specialization:** Full Stack Web Development (Laravel, PHP, React, Tailwind CSS).
+* **Workflow:** Systems architecture, database planning, and ideation structured via Obsidian.
+
+
 
 # TECHNICAL SKILLS
+
+### Web Engineering
+Laravel / PHP / React / Vite / Tailwind CSS / HTML5 / CSS3 / JavaScript
 
 ### Game Development & 3D Pipeline
 Godot Engine 4 / GDScript / Blender (Low-Poly Modeling, UV Mapping, Basic Armatures)
 
-### Web Engineering
-React / Vite / Tailwind CSS / HTML5 / CSS3 / JavaScript
+### Tools & Environment
+Git / GitHub / Obsidian / Antigravity IDE / CapCut / OBS Studio
 
-### Tools & Documentation
-Git / GitHub / Obsidian / CapCut / OBS Studio
 
---
 
 # FEATURED PROJECTS
 
 | Project Name | Category | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **Quiet Overtime** | Game Development | A 2D top-down submarine horror game featuring sonar scanning, grid movement, and resource management. | Godot 4, GDScript |
-| **Mr.John and who?** | Game Development | Retro PS1-style horror game concept incorporating flashlight and lighting mechanics. | Godot, Blender |
-| **Digital Resume** | Web Application | A personal portfolio featuring a minimalist monochrome user interface. | React, Vite, Tailwind CSS |
+| *Coming Soon* | - | *Project details will be updated soon.* | - |
 
---
+
 
 # WORK & ORGANIZATION EXPERIENCE
 
@@ -43,14 +43,14 @@ Git / GitHub / Obsidian / CapCut / OBS Studio
 | **Head of Production** | Seni Peran Smakensa (Theater) | High School |
 | **Daily Casual Worker** | Administrative & Operations | Freelance / Short-term |
 
---
+
 
 # CONTACT & CONNECT
 
+* **Website:** portofolio.iann.my.id
 * **GitHub:** github.com/Rven24
-* **Email:** taufanian07@gmail.com
-* **Instagram:** @fvyannn
+* **Email:** favianlesveva@gmail.com
 
---
 
-Thank you for visiting my profile. Open for game development collaborations, open-source projects, and technical discussions.
+
+Thank you for visiting my profile. Open for full-stack web projects, game development collaborations, and technical discussions.
