@@ -1,55 +1,56 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=3498DB&width=435&lines=Halo,+Saya+Vyann!;Web+%26+Mobile+Developer;Selamat+Datang!" alt="Typing SVG" />
-</h1>
+# FAVIAN MUHAMMAD TAUFANI ATHA LESVEVA
+### Software Engineer & Game Developer
 
-<p align="center">
-  <i>Pengembang Web & Mobile yang berfokus pada pembuatan aplikasi yang efisien, modern, dan berorientasi pengguna.</i>
-</p>
+--
 
----
+# ABOUT ME
 
-### 🙋‍♂️ Tentang Saya
+Graduated in Software Engineering from SMKN 1 Lumajang. Focused on building 2D top-down game systems, low-poly 3D assets, and minimalist web applications. Experienced in managing technical and creative workflows.
 
-- 🔭 **Sedang Mengembangkan:** Aplikasi web & mobile interaktif berbasis Laravel dan Flutter.
-- 🌱 **Fokus Belajar:** Eksplorasi arsitektur perangkat lunak, optimasi database, serta teknologi web modern.
-- 🤝 **Terbuka Untuk:** Kolaborasi proyek *open-source*, pembuatan aplikasi web/mobile, dan diskusi teknologi.
+* **Current Focus:** Developing *Quiet Overtime* (Submarine horror game) in Godot Engine.
+* **Specialization:** GDScript logic, Blender low-poly modeling, and React front-end development.
+* **Workflow:** Architecture and ideation structured via Obsidian.
 
----
+--
 
-### 🛠️ Keahlian Teknis
+# TECHNICAL SKILLS
 
-- **Pengembangan Web:** HTML5, CSS3, JavaScript, PHP, Laravel
-- **Pengembangan Mobile:** Dart, Flutter
-- **Database & Penyimpanan:** MySQL, PostgreSQL
-- **Alat & Lingkungan Kerja:** Git, GitHub, VS Code
+### Game Development & 3D Pipeline
+Godot Engine 4 / GDScript / Blender (Low-Poly Modeling, UV Mapping, Basic Armatures)
 
----
+### Web Engineering
+React / Vite / Tailwind CSS / HTML5 / CSS3 / JavaScript
 
-### 📊 Statistik GitHub
+### Tools & Documentation
+Git / GitHub / Obsidian / CapCut / OBS Studio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rven24&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Vyann" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rven24&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Populer" height="150" />
-</p>
+--
 
----
+# FEATURED PROJECTS
 
-### 📫 Mari Terhubung
+| Project Name | Category | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Quiet Overtime** | Game Development | A 2D top-down submarine horror game featuring sonar scanning, grid movement, and resource management. | Godot 4, GDScript |
+| **Mr.John and who?** | Game Development | Retro PS1-style horror game concept incorporating flashlight and lighting mechanics. | Godot, Blender |
+| **Digital Resume** | Web Application | A personal portfolio featuring a minimalist monochrome user interface. | React, Vite, Tailwind CSS |
 
-<p align="center">
-  <a href="mailto:taufanian07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-taufanian07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/fvyannn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@fvyannn-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rven24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Rven24-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+--
 
----
+# WORK & ORGANIZATION EXPERIENCE
 
-<p align="center">
-  <small><i>Terima kasih telah berkunjung! Jangan ragu untuk melihat-lihat repositori saya atau menghubungi saya untuk berkolaborasi.</i></small>
-</p>
+| Role | Organization / Context | Period |
+| :--- | :--- | :--- |
+| **Head of Production** | Seni Peran Smakensa (Theater) | High School |
+| **Daily Casual Worker** | Administrative & Operations | Freelance / Short-term |
+
+--
+
+# CONTACT & CONNECT
+
+* **GitHub:** github.com/Rven24
+* **Email:** taufanian07@gmail.com
+* **Instagram:** @fvyannn
+
+--
+
+Thank you for visiting my profile. Open for game development collaborations, open-source projects, and technical discussions.
